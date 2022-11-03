@@ -15,7 +15,7 @@
 <a href="https://linkedin.com/in/vilhem-dedun-82ba22250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vilhem-dedun-82ba22250" height="30" width="40" /></a>
 <a href="https://fb.com/vilhem_dedun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vilhem_dedun" height="30" width="40" /></a>
 <a href="https://instagram.com/vilhem_dedun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vilhem_dedun" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/vilhem gamer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vilhem gamer" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/VILHEM GAMER" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vilhem gamer" height="30" width="40" /></a>
 <a href="https://discord.gg/VILHEM#2721" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="VILHEM#2721" height="30" width="40" /></a>
 </p>
 
